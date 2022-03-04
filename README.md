@@ -1,4 +1,4 @@
- <section class="content-section bg-primary text-white text-center" id="services">
+ <section class="content-section bg-primary text-black text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
                     <h3 class="text-secondary mb-0">ON420B</h3>
