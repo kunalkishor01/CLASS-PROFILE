@@ -1,5 +1,4 @@
 Hello folks , This is our teammate .
 -----------------------------------------------------------------
-
-KUNAL KISHOR(21BCS2094)
-RAJAT KUMAR(21BCS2871)
+   <h2 class> Kunal Kishor </h2>
+  <h4><strong>21BCS2094</strong></h4>
